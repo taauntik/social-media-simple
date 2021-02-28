@@ -1,0 +1,16 @@
+.users-container {
+  display: grid;
+  grid-template-columns: repeat(3, 0.5fr);
+}
+
+.app {
+  display: flex;
+}
+
+.selected-box {
+  background-color: lightgreen;
+  padding: 20px;
+  border-radius: 20px;
+  margin-top: 50px;
+  position: fixed;
+}

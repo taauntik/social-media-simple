@@ -1,0 +1,21 @@
+.img-container {
+  width: 12rem;
+  border-radius: 100%;
+  margin-bottom: 20px;
+}
+
+.user {
+  margin: 50px;
+  border: 1px solid lightgray;
+  box-shadow: 5px 5px 10px lightgray;
+  border-radius: 20px;
+  text-align: center;
+  padding: 20px;
+}
+
+.img-container img {
+  width: 100%;
+  border-radius: 50%;
+  border: 30px solid;
+  border-image: linear-gradient(#4287f5, #42f5e6);
+}

@@ -1,0 +1,14 @@
+You have to create a web page using react.
+there is gonna be 15 users in the website.
+for users: 
+1. we are gonna use json placeholder api
+2. we are gonna have a image of each user
+3. we are gonna have username, email, phone number
+4. we are gonna have a button for each user with plus icon
+    the button is gonna show the how many users are added here.
+
+5. users gonna have a yearly income
+    when you clcik on the add button.
+    it's not only gonna show that how many users have been added
+    it's also gonna show total salary of that users
+
